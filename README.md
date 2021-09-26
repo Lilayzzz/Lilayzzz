@@ -31,18 +31,18 @@
 
 #### Frame Tags
 
-[![](https://img.shields.io/badge/-Spring-1479A1?logo=Spring&logoColor=white)]()
-[![](https://img.shields.io/badge/-SpringBoot-2479A2?logo=SpringBoot&logoColor=white)]()
-[![](https://img.shields.io/badge/-SpringCloud-3479A3?logo=Spring&logoColor=white)]()
-[![](https://img.shields.io/badge/-MySQL-4179A4?logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/-PostgreSql-4279A5?logo=PostgreSql&logoColor=white)]()
-[![](https://img.shields.io/badge/-Oracle-4379A6?logo=Oracle&logoColor=white)]()
+[![](https://img.shields.io/badge/-Spring-4419A7?logo=Spring&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringBoot-4419A7?logo=SpringBoot&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringCloud-4419A7?logo=Spring&logoColor=white)]()
+[![](https://img.shields.io/badge/-MySQL-4419A7?logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/-PostgreSql-4419A7?logo=PostgreSql&logoColor=white)]()
+[![](https://img.shields.io/badge/-Oracle-4419A7?logo=Oracle&logoColor=white)]()
 [![](https://img.shields.io/badge/-RabbitMq-4419A7?logo=RabbitMq&logoColor=white)]()
-[![](https://img.shields.io/badge/-RocketMq-4429A8?logo=RocketMq&logoColor=white)]()
-[![](https://img.shields.io/badge/-Redis-4473A9?logo=Redis&logoColor=white)]()
-[![](https://img.shields.io/badge/-Zookeeper-4471A1?logo=Zookeeper&logoColor=white)]()
-[![](https://img.shields.io/badge/-Kafka-4499A1?logo=Kafka&logoColor=white)]()
+[![](https://img.shields.io/badge/-RocketMq-4419A7?logo=RocketMq&logoColor=white)]()
+[![](https://img.shields.io/badge/-Redis-4419A7?logo=Redis&logoColor=white)]()
+[![](https://img.shields.io/badge/-Zookeeper-4419A7?logo=Zookeeper&logoColor=white)]()
+[![](https://img.shields.io/badge/-Kafka-4419A7?logo=Kafka&logoColor=white)]()
 
 #### Blog
 
-[![](https://img.shields.io/badge/Lilay%20Blog-366DBF?logo=blog&logoColor=ffffff)](http://www.lilayzzz.cn/)
+[![](https://img.shields.io/badge/Lilay%20Blog-7cafe2?logo=blog&logoColor=ffffff)](http://www.lilayzzz.cn/)
