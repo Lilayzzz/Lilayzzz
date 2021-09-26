@@ -21,7 +21,6 @@
 [![](https://img.shields.io/badge/Postman-366DBF?logo=Postman&logoColor=ffffff)](https://www.postman.com/)
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
 [![](https://img.shields.io/badge/-Svn-F05032?logo=svn&logoColor=white)]()
-[![](https://img.shields.io/badge/-Notepad-F05032?logo=Notepad++&logoColor=white)]()
 
 #### Language
 
@@ -33,14 +32,14 @@
 #### Frame Tags
 
 [![](https://img.shields.io/badge/-Spring-4479A1?logo=Spring&logoColor=white)]()
-[![](https://img.shields.io/badge/-SpringBoot-4479A1?logo=SpringBoot&logoColor=white)]()
-[![](https://img.shields.io/badge/-SpringCloud-4479A1?logo=Spring&logoColor=white)]()
-[![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/-PostgreSql-4479A1?logo=PostgreSql&logoColor=white)]()
-[![](https://img.shields.io/badge/-Oracle-4479A1?logo=Oracle&logoColor=white)]()
-[![](https://img.shields.io/badge/-RabbitMq-4479A1?logo=RabbitMq&logoColor=white)]()
-[![](https://img.shields.io/badge/-RocketMq-4479A1?logo=RocketMq&logoColor=white)]()
-[![](https://img.shields.io/badge/-Redis-4479A1?logo=Redis&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringBoot-4479A2?logo=SpringBoot&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringCloud-4479A3?logo=Spring&logoColor=white)]()
+[![](https://img.shields.io/badge/-MySQL-4479A4?logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/-PostgreSql-4479A5?logo=PostgreSql&logoColor=white)]()
+[![](https://img.shields.io/badge/-Oracle-4479A6?logo=Oracle&logoColor=white)]()
+[![](https://img.shields.io/badge/-RabbitMq-4479A7?logo=RabbitMq&logoColor=white)]()
+[![](https://img.shields.io/badge/-RocketMq-4479A8?logo=RocketMq&logoColor=white)]()
+[![](https://img.shields.io/badge/-Redis-4479A9?logo=Redis&logoColor=white)]()
 [![](https://img.shields.io/badge/-Zookeeper-4479A1?logo=Zookeeper&logoColor=white)]()
 [![](https://img.shields.io/badge/-Kafka-4479A1?logo=Kafka&logoColor=white)]()
 
