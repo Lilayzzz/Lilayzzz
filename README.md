@@ -32,7 +32,7 @@
 #### Frame Tags
 [![](https://img.shields.io/badge/-Spring-4479A1?logo=Spring&logoColor=white)]()
 [![](https://img.shields.io/badge/-SpringBoot-4479A1?logo=SpringBoot&logoColor=white)]()
-[![](https://img.shields.io/badge/-SpringCloudAlibaba-4479A1?logo=SpringCloudAlibaba&logoColor=white)]()
+[![](https://img.shields.io/badge/-微服务-4479A1?logo=微服务&logoColor=white)]()
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/-Oracle-4479A1?logo=Oracle&logoColor=white)]()
 [![](https://img.shields.io/badge/-RabbitMq-4479A1?logo=RabbitMq&logoColor=white)]()
