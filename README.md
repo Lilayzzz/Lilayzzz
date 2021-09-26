@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/Microsoft%20Edge%20-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
 [![](https://img.shields.io/badge/Postman-366DBF?logo=Postman&logoColor=ffffff)](https://www.postman.com/)
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
-[![](https://img.shields.io/badge/-Svn-F05032?logo=svn&logoColor=white)]()
+[![](https://img.shields.io/badge/-Svn-A8B9CC?logo=svn&logoColor=white)]()
 
 #### Language
 
@@ -31,17 +31,17 @@
 
 #### Frame Tags
 
-[![](https://img.shields.io/badge/-Spring-4479A1?logo=Spring&logoColor=white)]()
-[![](https://img.shields.io/badge/-SpringBoot-4479A2?logo=SpringBoot&logoColor=white)]()
-[![](https://img.shields.io/badge/-SpringCloud-4479A3?logo=Spring&logoColor=white)]()
-[![](https://img.shields.io/badge/-MySQL-4479A4?logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/-PostgreSql-4479A5?logo=PostgreSql&logoColor=white)]()
-[![](https://img.shields.io/badge/-Oracle-4479A6?logo=Oracle&logoColor=white)]()
-[![](https://img.shields.io/badge/-RabbitMq-4479A7?logo=RabbitMq&logoColor=white)]()
-[![](https://img.shields.io/badge/-RocketMq-4479A8?logo=RocketMq&logoColor=white)]()
-[![](https://img.shields.io/badge/-Redis-4479A9?logo=Redis&logoColor=white)]()
-[![](https://img.shields.io/badge/-Zookeeper-4479A1?logo=Zookeeper&logoColor=white)]()
-[![](https://img.shields.io/badge/-Kafka-4479A1?logo=Kafka&logoColor=white)]()
+[![](https://img.shields.io/badge/-Spring-1479A1?logo=Spring&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringBoot-2479A2?logo=SpringBoot&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringCloud-3479A3?logo=Spring&logoColor=white)]()
+[![](https://img.shields.io/badge/-MySQL-4179A4?logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/-PostgreSql-4279A5?logo=PostgreSql&logoColor=white)]()
+[![](https://img.shields.io/badge/-Oracle-4379A6?logo=Oracle&logoColor=white)]()
+[![](https://img.shields.io/badge/-RabbitMq-4419A7?logo=RabbitMq&logoColor=white)]()
+[![](https://img.shields.io/badge/-RocketMq-4429A8?logo=RocketMq&logoColor=white)]()
+[![](https://img.shields.io/badge/-Redis-4473A9?logo=Redis&logoColor=white)]()
+[![](https://img.shields.io/badge/-Zookeeper-4471A1?logo=Zookeeper&logoColor=white)]()
+[![](https://img.shields.io/badge/-Kafka-4499A1?logo=Kafka&logoColor=white)]()
 
 #### Blog
 
