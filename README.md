@@ -14,7 +14,9 @@
 
 #### Tools
 
-[![](https://img.shields.io/badge/IntelliJ%20IDEA-2020.1.2-FE305E?logo=IntelliJ%20IDEA&logoColor=ffffff)](https://www.jetbrains.com/)
+[![](https://img.shields.io/badge/IntelliJ%20IDEA-FE305E?logo=IntelliJ%20IDEA&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/VisualStudio-00B3FF?logo=VisualStudio&logoColor=\FE305E)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Google-1BD88A?logo=Google&logoColor=ffffff)](https://www.google.com/)
-[![](https://img.shields.io/badge/Microsoft%20Edge%20-%2086.0.622.5-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
+[![](https://img.shields.io/badge/Microsoft%20Edge%20-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
+[![](https://img.shields.io/badge/Postman%20Edge%20-366DBF?logo=Postman%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
+
