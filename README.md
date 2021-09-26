@@ -18,5 +18,4 @@
 [![](https://img.shields.io/badge/VisualStudio-00B3FF?logo=VisualStudio&logoColor=\FE305E)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Google-1BD88A?logo=Google&logoColor=ffffff)](https://www.google.com/)
 [![](https://img.shields.io/badge/Microsoft%20Edge%20-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
-[![](https://img.shields.io/badge/Postman%20Edge%20-366DBF?logo=Postman%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
-
+[![](https://img.shields.io/badge/Postman-366DBF?logo=Postman&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
