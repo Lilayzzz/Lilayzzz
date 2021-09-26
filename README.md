@@ -18,4 +18,20 @@
 [![](https://img.shields.io/badge/VisualStudio-00B3FF?logo=VisualStudio&logoColor=\FE305E)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Google-1BD88A?logo=Google&logoColor=ffffff)](https://www.google.com/)
 [![](https://img.shields.io/badge/Microsoft%20Edge%20-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
-[![](https://img.shields.io/badge/Postman-366DBF?logo=Postman&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
+[![](https://img.shields.io/badge/Postman-366DBF?logo=Postman&logoColor=ffffff)](https://www.postman.com/)
+[![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
+
+#### Language
+
+[![](https://img.shields.io/badge/-Java-A8B9CC?logo=Java&logoColor=white)]()
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)]()
+[![](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white)]()
+
+[![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white)]()
+
+#### Frame Tags
+[![](https://img.shields.io/badge/-Spring-4479A1?logo=Spring&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringBoot-4479A1?logo=SpringBoot&logoColor=white)]()
+[![](https://img.shields.io/badge/-SpringCloud-4479A1?logo=SpringCloud&logoColor=white)]()
+[![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/-Oracle-4479A1?logo=Oracle&logoColor=white)]()
